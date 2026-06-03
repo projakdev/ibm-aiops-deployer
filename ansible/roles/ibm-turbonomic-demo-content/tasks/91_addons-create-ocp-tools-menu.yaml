@@ -53,7 +53,7 @@
       spec:
         applicationMenu:
           imageURL: >-
-            https://raw.githubusercontent.com/niklaushirt/ibm-aiops-deployer/main/doc/pics/icons/turbo-icon.svg
+            https://raw.githubusercontent.com/projakdev/ibm-aiops-deployer/main/doc/pics/icons/turbo-icon.svg
           section: IBM IT Automation
         href: >-
           https://$appURL
@@ -80,7 +80,7 @@
       spec:
         applicationMenu:
           imageURL: >-
-            https://raw.githubusercontent.com/niklaushirt/ibm-aiops-deployer/main/doc/pics/icons/ibm-cloud-pak--business-automation-white.svg
+            https://raw.githubusercontent.com/projakdev/ibm-aiops-deployer/main/doc/pics/icons/ibm-cloud-pak--business-automation-white.svg
           section: IBM IT Automation
         href: >-
           https://$appURL

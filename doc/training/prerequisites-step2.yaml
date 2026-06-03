@@ -142,7 +142,7 @@ data:
         # Train the Models based on pre-canned content
 
         # Where to get the training data from
-        training_data_url: https://github.com/niklaushirt/
+        training_data_url: https://github.com/projakdev/
         training_data_repo: ibm-aiops-trainingdata
 
         # Create Kafka connection for Log inception (needed to create log anomalies in the demo environment)
@@ -257,7 +257,7 @@ data:
 
 
 
-  INSTALL_REPO: 'https://github.com/niklaushirt/ibm-aiops-deployer.git -b main'
+  INSTALL_REPO: 'https://github.com/projakdev/ibm-aiops-deployer.git -b main'
 
 
 

@@ -169,7 +169,7 @@ data:
         # Create feature flag Training (Seasonality and XinY)
         training_create_season_xiny: false
 
-        training_data_url: https://github.com/niklaushirt/
+        training_data_url: https://github.com/projakdev/
         training_data_repo: ibm-aiops-trainingdata
 
 
@@ -267,7 +267,7 @@ data:
 
 
 
-  INSTALL_REPO: 'https://github.com/niklaushirt/ibm-aiops-deployer.git -b main'
+  INSTALL_REPO: 'https://github.com/projakdev/ibm-aiops-deployer.git -b main'
 
 
 

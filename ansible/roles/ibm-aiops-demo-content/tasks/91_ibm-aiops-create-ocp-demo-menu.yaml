@@ -53,7 +53,7 @@
       spec:
         applicationMenu:
           imageURL: >-
-            https://raw.githubusercontent.com/niklaushirt/ibm-aiops-deployer/main/doc/pics/icons/demo-icon-white.svg
+            https://raw.githubusercontent.com/projakdev/ibm-aiops-deployer/main/doc/pics/icons/demo-icon-white.svg
           section: IBM Demo
         href: >-
           https://$appURL

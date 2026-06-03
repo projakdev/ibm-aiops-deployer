@@ -1141,7 +1141,7 @@ If not, please [re-run the installer Pod](#re-run-the-installer).
 
 If your CP4AIPS installtion gets stuck at 60-90 Pods in the `ibm-aiops` Namespace, there is not much I can do to help - this is not a problem with the scripts!
 
-✅ Please [try this YAML](https://github.com/niklaushirt/ibm-aiops-deployer/blob/main/tools/00_troubleshooting/CP4AIOPS_INSTALL_HACK.yaml)
+✅ Please [try this YAML](https://github.com/projakdev/ibm-aiops-deployer/blob/main/tools/00_troubleshooting/CP4AIOPS_INSTALL_HACK.yaml)
 
 </details>
 

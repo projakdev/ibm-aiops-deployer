@@ -103,8 +103,8 @@ spec:
               echo "------------------------------------------------------------------------------------------------------------------------------"
               echo " 🚀 Getting Installation source from GitHub"
               echo "------------------------------------------------------------------------------------------------------------------------------"
-              echo "   📥 Clone Repo https://github.com/niklaushirt/ibm-aiops-deployer.git -b dev_latest"
-              git clone https://github.com/niklaushirt/ibm-aiops-deployer.git -b main
+              echo "   📥 Clone Repo https://github.com/projakdev/ibm-aiops-deployer.git -b dev_latest"
+              git clone https://github.com/projakdev/ibm-aiops-deployer.git -b main
               cd /ibm-aiops-deployer
               echo ""
               echo ""
@@ -119,7 +119,7 @@ spec:
               echo "   ------------------------------------------------------------------------------------------------------------------------------"
               echo "    📥 Downloading Training files"
               echo "   ------------------------------------------------------------------------------------------------------------------------------"
-              export TRAINING_REPO=https://github.com/niklaushirt/ibm-aiops-trainingdata.git
+              export TRAINING_REPO=https://github.com/projakdev/ibm-aiops-trainingdata.git
               git clone $TRAINING_REPO
               cd /ibm-aiops-trainingdata
 

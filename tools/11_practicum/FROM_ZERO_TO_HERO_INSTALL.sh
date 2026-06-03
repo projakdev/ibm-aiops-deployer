@@ -71,8 +71,8 @@ spec:
               echo ""
               echo ""
               echo "------------------------------------------------------------------------------------------------------------------------------"
-              echo " 📥 Clone Repo https://github.com/niklaushirt/ibm-aiops-deployer.git"
-              git clone https://github.com/niklaushirt/ibm-aiops-deployer.git -b main
+              echo " 📥 Clone Repo https://github.com/projakdev/ibm-aiops-deployer.git"
+              git clone https://github.com/projakdev/ibm-aiops-deployer.git -b main
 
               
               cd ibm-aiops-deployer

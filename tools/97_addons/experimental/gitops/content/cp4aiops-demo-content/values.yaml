@@ -23,7 +23,7 @@ cp4aiops:
     experimental_enabled: false
     temporal_enabled: false
 
-    training_data_url: https://github.com/niklaushirt/
+    training_data_url: https://github.com/projakdev/
     training_data_repo: ibm-aiops-additionaldata
 
 

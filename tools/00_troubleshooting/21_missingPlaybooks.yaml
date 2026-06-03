@@ -144,7 +144,7 @@ spec:
 
                 # -----------------------------------------------------------------------------------------------------------------------------
                 # 🚀 AWX - Create AWX Project
-                export AWX_REPO=https://github.com/niklaushirt/ansible-demo
+                export AWX_REPO=https://github.com/projakdev/ansible-demo
                 export result=$(curl -X "POST" -s "$AWX_URL/api/v2/projects/" -u "admin:$AWX_PWD" --insecure \
                 -H 'content-type: application/json' \
                 -d $'{

@@ -68,7 +68,7 @@ spec:
         - name: cp4aiops.training.training_data_repo
           value: ibm-aiops-additionaldata
         - name: cp4aiops.training.training_data_url
-          value: 'https://github.com/niklaushirt/'
+          value: 'https://github.com/projakdev/'
     path: tools/97_addons/experimental/gitops/content/cp4aiops-demo-content
-    repoURL: 'https://github.com/niklaushirt/ibm-aiops-deployer'
+    repoURL: 'https://github.com/projakdev/ibm-aiops-deployer'
     targetRevision: dev_latest

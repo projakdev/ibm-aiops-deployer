@@ -245,7 +245,7 @@ spec:
     color: '#fff'
     location: BannerTop
     link:
-        href: "https://github.com/niklaushirt/ibm-aiops-deployer?tab=readme-ov-file#7-troubleshooting"
+        href: "https://github.com/projakdev/ibm-aiops-deployer?tab=readme-ov-file#7-troubleshooting"
         text: Troubleshooting
 
     text: " Nothing the script can do here. Check the Link or Slack to see if this is a known problem."
@@ -696,7 +696,7 @@ EOF
         echo ""
         echo "  🚀 Try to re-run the installer to see if this solves the problem"
         echo "  🛠️  To do this just delete the ibm-aiops-install-aiops pod in the ibm-aiop Namespace"
-        echo "  🛠️  Explained in detail here: https://github.com/niklaushirt/ibm-aiops-deployer/tree/main#re-run-the-installer"
+        echo "  🛠️  Explained in detail here: https://github.com/projakdev/ibm-aiops-deployer/tree/main#re-run-the-installer"
         echo ""
         echo "***************************************************************************************************************************************************"
         echo "***************************************************************************************************************************************************"

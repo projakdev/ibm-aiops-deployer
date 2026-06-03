@@ -14,7 +14,7 @@ You pick the level which is most applicable for your situation.
 ---
 ### 🚀 Storytelling for CloudPak for AIOps
 
-![](https://raw.githubusercontent.com/niklaushirt/ibm-aiops-deployer/dev_latest/doc/storytelling/pics/global/aiops_title.png)
+![](https://raw.githubusercontent.com/projakdev/ibm-aiops-deployer/dev_latest/doc/storytelling/pics/global/aiops_title.png)
 
 
 
@@ -26,13 +26,13 @@ Showcase how CP4AIOps can help you understand and resolve incidents quickly. Wit
 
 **Preparation time**: About 1 hour to get used to the demo flow and click targets.
 
-#### 🌏 [Access it here](https://github.com/niklaushirt/ibm-aiops-deployer/blob/main/doc/storytelling/CP4AIOps_Sample%20Demo%20Script.md)
+#### 🌏 [Access it here](https://github.com/projakdev/ibm-aiops-deployer/blob/main/doc/storytelling/CP4AIOps_Sample%20Demo%20Script.md)
 
 
 ---
 ### 🚀 Storytelling for Turbonomic
 
-![](https://raw.githubusercontent.com/niklaushirt/ibm-aiops-deployer/dev_latest/doc/storytelling/pics/global/turbo_title.png)
+![](https://raw.githubusercontent.com/projakdev/ibm-aiops-deployer/dev_latest/doc/storytelling/pics/global/turbo_title.png)
 
 
 
@@ -44,12 +44,12 @@ Showcase how Turbonomic can help your operations team proactively optimize perfo
 
 **Preparation time**: About 1 hour to get used to the demo flow and click targets.
 
-#### 🌏 [Access it here](https://github.com/niklaushirt/ibm-aiops-deployer/blob/main/doc/storytelling/TURBONOMIC_PERF_Sample_Demo%20Script.md)
+#### 🌏 [Access it here](https://github.com/projakdev/ibm-aiops-deployer/blob/main/doc/storytelling/TURBONOMIC_PERF_Sample_Demo%20Script.md)
 
 ---
 ### 🚀 Storytelling for Apptio & Turbonomic
 
-![](https://raw.githubusercontent.com/niklaushirt/ibm-aiops-deployer/dev_latest/doc/storytelling/pics/global/finops_title.png)
+![](https://raw.githubusercontent.com/projakdev/ibm-aiops-deployer/dev_latest/doc/storytelling/pics/global/finops_title.png)
 
 
 
@@ -63,14 +63,14 @@ Showcase how Apptio Cloudability and Turbonomic can help manage and optimize pub
 
 **Preparation time**: About 1 hour to get used to the demo flow and click targets.
 
-#### 🌏 [Access it here](https://github.com/niklaushirt/ibm-aiops-deployer/blob/main/doc/storytelling/TURBONOMIC_FINOPS_Sample_Demo%20Script.md)
+#### 🌏 [Access it here](https://github.com/projakdev/ibm-aiops-deployer/blob/main/doc/storytelling/TURBONOMIC_FINOPS_Sample_Demo%20Script.md)
 
 
 
 ---
 ### 🚀 Storytelling for CloudPak for AIOps with Live Environment
 
-![](https://raw.githubusercontent.com/niklaushirt/ibm-aiops-deployer/dev_latest/doc/storytelling/pics/global/aiops_title.png)
+![](https://raw.githubusercontent.com/projakdev/ibm-aiops-deployer/dev_latest/doc/storytelling/pics/global/aiops_title.png)
 
 
 
@@ -82,7 +82,7 @@ Showcase how CP4AIOps can help you understand and resolve incidents quickly. Wit
 
 **Preparation time**: About 3 hours for installation and to get used to the demo flow.
 
-#### 🌏 [Access it here](https://github.com/niklaushirt/ibm-aiops-deployer/blob/main/doc/storytelling/CP4AIOps%20Live%20Environment%20Sample%20Demo%20Script_NO_CHATOPS.md)
+#### 🌏 [Access it here](https://github.com/projakdev/ibm-aiops-deployer/blob/main/doc/storytelling/CP4AIOps%20Live%20Environment%20Sample%20Demo%20Script_NO_CHATOPS.md)
 
 
 
@@ -178,7 +178,7 @@ The idea of this repo is to provide a optimised, complete, pre-trained 🐣 Demo
 
 **Preparation time**: About 3 hours for installation and to get used to the demo flow.
 
-#### 🌏 [Access it here](https://github.com/niklaushirt/ibm-aiops-deployer/tree/main#-quick-install)
+#### 🌏 [Access it here](https://github.com/projakdev/ibm-aiops-deployer/tree/main#-quick-install)
 
 ## Authors
 - Niklaus Hirt (akshay@skillion.in)

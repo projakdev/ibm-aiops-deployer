@@ -288,7 +288,7 @@ spec:
 
           env:
           - name: REPO_URL
-            value : "https://github.com/niklaushirt/ibm-aiops-tools.git"
+            value : "https://github.com/projakdev/ibm-aiops-tools.git"
           - name: KUBECOST_TOKEN
             value : <REGISTRY_TOKEN>
       restartPolicy: Never

@@ -48,7 +48,7 @@ echo ""
 
 
 echo "🚀 AWX - Create AWX Project"
-export AWX_REPO=https://github.com/niklaushirt/ansible-demo
+export AWX_REPO=https://github.com/projakdev/ansible-demo
 export result=$(curl -X "POST" -s "$AWX_URL/api/v2/projects/" -u "admin:$AWX_PWD" --insecure \
 -H 'content-type: application/json' \
 -d $'{
@@ -87,7 +87,7 @@ echo ""
 
 
 # echo "🚀 AWX - Hack sync AWX Project"
-#     export AWX_REPO=https://github.com/niklaushirt/ansible-demo
+#     export AWX_REPO=https://github.com/projakdev/ansible-demo
 #     export result=$(curl -X "GET" -s "$AWX_URL/api/v2/projects/{{ AWX_PROJECT_ID }}/update" -u "admin:$AWX_PWD" --insecure \
 #     -H 'content-type: application/json')
 

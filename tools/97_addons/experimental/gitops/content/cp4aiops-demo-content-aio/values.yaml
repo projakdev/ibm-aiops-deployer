@@ -30,7 +30,7 @@ cp4aiops:
     # Create feature flag Training (Seasonality and XinY)
     training_create_season_xiny: false
 
-    training_data_url: https://github.com/niklaushirt/
+    training_data_url: https://github.com/projakdev/
     training_data_repo: ibm-aiops-additionaldata
 
 

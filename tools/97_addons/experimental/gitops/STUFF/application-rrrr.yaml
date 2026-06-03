@@ -80,7 +80,7 @@ spec:
         - name: cp4aiops.content.training_data_repo
           value: ibm-aiops-additionaldata
         - name: cp4aiops.content.training_data_url
-          value: 'https://github.com/niklaushirt/'
+          value: 'https://github.com/projakdev/'
         - name: cp4aiops.content.training_load_data_metrics
           value: false
         - name: cp4aiops.content.training_load_data_snow
@@ -94,5 +94,5 @@ spec:
         - name: cp4aiops.instanceName
           value: Demo
     path: tools/97_addons/experimental/gitops/content/cp4aiops-demo-content-aio
-    repoURL: 'https://github.com/niklaushirt/ibm-aiops-deployer'
+    repoURL: 'https://github.com/projakdev/ibm-aiops-deployer'
     targetRevision: dev_latest

@@ -17,7 +17,7 @@
 
 This script is intended as a guide to demonstrate IBM AIOps using the live demo environment, running the Cloud Pak itself and the demo application. The script is presented in a few sections. You can utilize some or all sections depending upon your client’s needs. 
 
-The script is intended to be used with live IBM AIOps 3.x demo environment that you can reserve via [TechZone](https://techzone.ibm.com/collection/ibm-aiopsdemo#tab-1) or [install yourself](https://github.com/niklaushirt/ibm-aiops-deployer#-1-quick-install).
+The script is intended to be used with live IBM AIOps 3.x demo environment that you can reserve via [TechZone](https://techzone.ibm.com/collection/ibm-aiopsdemo#tab-1) or [install yourself](https://github.com/projakdev/ibm-aiops-deployer#-1-quick-install).
 
 
 You can watch the [Demo Walkthrough video](https://ibm.seismic.com/Link/Content/DCW3jb8Rf9VFf8mMT9BDB29MX6cB) to get an idea on how to do the demo (based on 4.10). 
@@ -125,7 +125,7 @@ During the demonstration, we will be using the sample application called RobotSh
 
 >**🚀 <u>Action</u>**
 >
->Use demo [introductory PowerPoint presentation](https://github.com/niklaushirt/ibm-aiops-deployer/blob/main/doc/CP4AIOPS_DEMO_2023_V1.pptx?raw=true), to illustrate the narration. Adapt your details on Slide 1 and 13
+>Use demo [introductory PowerPoint presentation](https://github.com/projakdev/ibm-aiops-deployer/blob/main/doc/CP4AIOPS_DEMO_2023_V1.pptx?raw=true), to illustrate the narration. Adapt your details on Slide 1 and 13
 
 **📣 <u>Narration</u>**
 

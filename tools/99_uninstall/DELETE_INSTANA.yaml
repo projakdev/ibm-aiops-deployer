@@ -208,7 +208,7 @@ spec:
 
           env:
           - name: INSTALL_REPO
-            value : "https://github.com/niklaushirt/ibm-aiops-deployer.git"
+            value : "https://github.com/projakdev/ibm-aiops-deployer.git"
           - name: CONFIG
             #value : "./configs/ibm-aiops-roks-aimanager-all-34.yaml"
             value : "./configs/xxxx.yaml"

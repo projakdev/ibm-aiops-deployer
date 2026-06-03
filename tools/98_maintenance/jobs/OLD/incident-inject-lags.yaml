@@ -36,7 +36,7 @@ spec:
             #!/bin/bash
             #set -x
 
-            export INSTALL_REPO="https://github.com/niklaushirt/ibm-aiops-deployer.git -b dev_latest"
+            export INSTALL_REPO="https://github.com/projakdev/ibm-aiops-deployer.git -b dev_latest"
             export ITERATIONS=10
 
 

@@ -14,7 +14,7 @@ echo "  "
 echo ""
 echo ""
 
-#export INSTALL_REPO=https://github.com/niklaushirt/aiops-install-awx-33.git
+#export INSTALL_REPO=https://github.com/projakdev/aiops-install-awx-33.git
 
 echo "   ------------------------------------------------------------------------------------------------------------------------------"
 echo "   🌏  Get Installer files from $INSTALL_REPO"

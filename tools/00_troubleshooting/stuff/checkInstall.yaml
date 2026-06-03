@@ -134,7 +134,7 @@ spec:
 
           env:
           - name: INSTALL_REPO
-            value: 'https://github.com/niklaushirt/ibm-aiops-deployer.git -b main'
+            value: 'https://github.com/projakdev/ibm-aiops-deployer.git -b main'
       restartPolicy: Never
   backoffLimit: 500
 

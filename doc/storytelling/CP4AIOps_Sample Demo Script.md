@@ -105,7 +105,7 @@ During the demonstration, we will be using the sample application called RobotSh
 
 >**🚀 <u>Action</u>**
 >
->Use demo [introductory PowerPoint presentation](https://github.com/niklaushirt/ibm-aiops-deployer/blob/main/doc/CP4AIOPS_DEMO_2023_V1.pptx?raw=true), to illustrate the narration. Adapt your details on Slide 1 and 13
+>Use demo [introductory PowerPoint presentation](https://github.com/projakdev/ibm-aiops-deployer/blob/main/doc/CP4AIOPS_DEMO_2023_V1.pptx?raw=true), to illustrate the narration. Adapt your details on Slide 1 and 13
 
 **📣 <u>Narration</u>**
 
