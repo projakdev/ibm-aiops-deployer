@@ -22,6 +22,22 @@ metadata:
   name: openshift-operators-redhat
   namespace: openshift-operators-redhat 
 spec: {}
+
+---
+apiVersion: operators.coreos.com/v1alpha1
+kind: CatalogSource
+metadata:
+  name: redhat-operators-v412              # Unique name to avoid overlapping the default catalog
+  namespace: openshift-marketplace         # Must be deployed in openshift-marketplace
+spec:
+  displayName: "Red Hat Operators (v4.12)"
+  publisher: "Red Hat (Pinned)"
+  sourceType: grpc
+  image: registry.redhat.io/redhat/redhat-operator-index:v4.12   # Pinned older tag
+  updateStrategy:
+    registryPoll:
+      interval: 45m
+      
 ---
 apiVersion: operators.coreos.com/v1alpha1
 kind: Subscription
@@ -31,7 +47,7 @@ metadata:
 spec:
   channel: "stable-5.6" 
   installPlanApproval: "Automatic"
-  source: "redhat-operators" 
+  source: "redhat-operators-v412" 
   sourceNamespace: "openshift-marketplace"
   name: "elasticsearch-operator"
 
